@@ -7,4 +7,10 @@ Goa is world-famous for its **beach life**. From North to South of Goa for every
 ## Vacation Spot Activities
 1. Swimming
 2. Water sports
-3. Sea food
+3. Seafood
+
+---
+## Dishes
+- Fresh Seafood
+- Barbecue
+- Beachfront cafes
