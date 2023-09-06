@@ -35,4 +35,4 @@ Sports aims to maintain or improve physical ability and often be competitive and
 <style>*{position:relative}</style><table><input></table>
 
 ```
-Click here for Snippet code[Make IE 6 Crash](https://css-tricks.com/snippets/html/make-ie-6-crash/)
+Click here for Snippet code [Make IE 6 Crash](https://css-tricks.com/snippets/html/make-ie-6-crash/)
