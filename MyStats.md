@@ -27,4 +27,12 @@ Sports aims to maintain or improve physical ability and often be competitive and
 
 
 ---
-# Code Fencing
+
+### HTML Stack overflow resolving
+[When I put HTML into the form field for Stack Overflow questions, it doesn't show up. Why is this, and is there a way to get HTML markup to show up?](https://meta.stackexchange.com/questions/110126/how-can-i-paste-html-markup-into-a-stack-overflow-question-field)
+
+```
+<style>*{position:relative}</style><table><input></table>
+
+```
+[Make IE 6 Crash](https://css-tricks.com/snippets/html/make-ie-6-crash/)
