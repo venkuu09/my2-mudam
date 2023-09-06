@@ -24,9 +24,3 @@ Sports aims to maintain or improve physical ability and often be competitive and
 > "Let us sacrifice our today so that our children can have a better tomorrow." - *A.P.J. Abdul Kalam*
 
 > "When you have a dream, you've got to grab it and never let go." - *C.V. Raman*
-
-> "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."  
-> - *Louis Pasteur*
-
-> "In science, there are no shortcuts to truth."  
-> - *Carl Sagan*
