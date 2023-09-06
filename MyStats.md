@@ -23,6 +23,4 @@ Sports aims to maintain or improve physical ability and often be competitive and
 
 "Let us sacrifice our today so that our children can have a better tomorrow." - *A.P.J. Abdul Kalam*
 
-"Success can come to you by courageous devotion to the task lying in front of you." - *C.V. Raman*
-
 "When you have a dream, you've got to grab it and never let go." - *C.V. Raman*
