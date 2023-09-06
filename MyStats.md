@@ -19,8 +19,14 @@ Sports aims to maintain or improve physical ability and often be competitive and
 ---
 # Scientists Pithy Quotes
 
-"If you want to shine like a sun, first burn like a sun." - *A.P.J. Abdul Kalam*
+> "If you want to shine like a sun, first burn like a sun." - *A.P.J. Abdul Kalam*
 
-"Let us sacrifice our today so that our children can have a better tomorrow." - *A.P.J. Abdul Kalam*
+> "Let us sacrifice our today so that our children can have a better tomorrow." - *A.P.J. Abdul Kalam*
 
-"When you have a dream, you've got to grab it and never let go." - *C.V. Raman*
+> "When you have a dream, you've got to grab it and never let go." - *C.V. Raman*
+
+> "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world."  
+> - *Louis Pasteur*
+
+> "In science, there are no shortcuts to truth."  
+> - *Carl Sagan*
