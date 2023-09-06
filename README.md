@@ -15,4 +15,4 @@ Goa is world-famous for its **beach life**. From North to South of Goa for every
 - Beachfront cafes
 
 
-You can learn more about me in [MyStats](MyStats.md).
+You can learn more about me in [MyStats](MyStats.md)
